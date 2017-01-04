@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/tradingview/webpack-uglify-parallel#readme",
   "dependencies": {
-    "uglify-js": "^2.6.2",
+    "uglify-js": "mishoo/UglifyJS2#harmony",
     "webpack-core": "^0.6.8"
   }
 }
